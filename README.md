@@ -1,3 +1,10 @@
+原本　ー　https://github.com/escapingnetwork/core-keeper-dedicated　
+escapingnetwork/core-keeper-dedicated　
+arguser
+
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
 # Core Keeper Dedicated Server
 
 ![corekeeper](https://user-images.githubusercontent.com/136487/168213246-7f561105-136e-47fa-abd9-fac1c97ca48d.png)
